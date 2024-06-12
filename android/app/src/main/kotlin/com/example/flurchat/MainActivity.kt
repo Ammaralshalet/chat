@@ -1,0 +1,5 @@
+package com.example.flurchat
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
